@@ -30,16 +30,12 @@ Data Analyst | SQL • Python • Power BI • Machine Learning
 
 ```python
 anuj = {
-
     "role": "Data Analyst",
-
     "education": "Integrated MA Economics",
-
     "experience": [
         "Risk Research Analyst",
         "Machine Learning Projects"
     ],
-
     "skills": [
         "SQL",
         "Python",
@@ -48,12 +44,12 @@ anuj = {
         "Machine Learning",
         "Data Visualization"
     ],
-
-    "currently_building":
-        "AI Powered Customer Churn Intelligence",
-
-    "open_to":
-        "Data Analyst | Business Analyst | Risk Analyst"
+    "currently_building": "AI Powered Customer Churn Intelligence",
+    "open_to": [
+        "Data Analyst",
+        "Business Analyst",
+        "Risk Analyst"
+    ]
 }
 ```
 
