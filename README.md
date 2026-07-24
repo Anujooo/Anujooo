@@ -111,6 +111,10 @@ anuj = {
 
 ✔ Random Forest
 
+✔ Dashboard
+ 
+<img width="1536" height="1024" alt="dashboard_cr" src="https://github.com/user-attachments/assets/09355736-7dbb-4fe3-a304-c88168670293" />
+
 ---
 
 ## 🤖 AI Customer Churn Intelligence
@@ -153,7 +157,7 @@ anuj = {
 
 # 📫 Connect With Me
 
-📧 Email: Anujsharma5750@gmail.com<img width="1536" height="1024" alt="dashboard_cr" src="https://github.com/user-attachments/assets/09355736-7dbb-4fe3-a304-c88168670293" />
+📧 Email: Anujsharma5750@gmail.com
 
 
 💼 LinkedIn: https://www.linkedin.com/in/anuj-sharma-195a443a6
@@ -164,7 +168,5 @@ anuj = {
 
 <p align="center">
 
-⭐ *"Without data, you're just another person with an opinion."*  
-— W. Edwards Deming
 
 </p>
