@@ -55,7 +55,8 @@ End-to-end pipeline on the German Credit Risk dataset — Python (EDA, feature e
 - **94% accuracy | 0.87 AUC** on a 32K-record loan dataset
 - Identified key predictors of default risk to support lending decisions
 
-<img width="900" alt="Credit Risk Dashboard" src="https://github.com/user-attachments/assets/09355736-7dbb-4fe3-a304-c88168670293" />
+<img width="1600" height="820" alt="Credit_Risk_Dashboard" src="https://github.com/user-attachments/assets/49114d04-8e22-4c46-bf16-458347809213" />
+
 
 ---
 
@@ -84,6 +85,9 @@ An AI-augmented analytics tool built on the credit risk and fraud datasets, comb
 
 ### 🏥 Hospital Management Analytics
 A 5-dataset SQL pipeline analyzing hospital operations, with a focus on billing leakage detection across the patient care lifecycle.
+
+<img width="900" alt="Credit Risk Dashboard" src="https://github.com/user-attachments/assets/09355736-7dbb-4fe3-a304-c88168670293" />
+
 
 <br>
 
