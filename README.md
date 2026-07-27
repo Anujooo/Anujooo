@@ -21,20 +21,14 @@
 
 ## 👨‍💻 About Me
 
-```python
-anuj = {
-    "role": "Data Analyst",
-    "location": "Delhi NCR, India",
-    "education": "Integrated M.Sc. Economics — Maharshi Dayanand University",
-    "background": [
-        "Data Analytics Internship — Unified Mentor",
-        "Financial Risk Research — MBG Corporate Services"
-    ],
-    "core_skills": ["SQL", "Python", "Power BI", "Excel", "Machine Learning"],
-    "currently_building": "AI Risk Analyst — NL-to-SQL agent, automated insight generation & drift monitoring",
-    "open_to": ["Data Analyst", "Business Analyst", "Risk Analyst"]
-}
-```
+| | |
+|---|---|
+| 📍 Location | Delhi NCR, India |
+| 🎓 Education | Integrated M.Sc. Economics — MDU |
+| 💼 Background | Data Analytics Intern @ Unified Mentor · Risk Research @ MBG Corporate Services |
+| 🛠 Core Skills | SQL, Python, Power BI, Excel, Machine Learning |
+| 🔧 Building Now | AI Risk Analyst (NL-to-SQL agent, insight automation, drift monitoring) |
+| 🎯 Open To | Data Analyst, Business Analyst, Risk Analyst |
 
 I specialize in end-to-end analytics — from cleaning raw data and building predictive models in Python, to writing business-driven SQL queries, to shipping interactive Power BI dashboards stakeholders actually use.
 
@@ -91,19 +85,6 @@ An AI-augmented analytics tool built on the credit risk and fraud datasets, comb
 
 ### 🏥 Hospital Management Analytics
 A 5-dataset SQL pipeline analyzing hospital operations, with a focus on billing leakage detection across the patient care lifecycle.
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anujooo&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujooo&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anujooo&theme=tokyonight&hide_border=true"/>
-</p>
 
 <br>
 
