@@ -21,14 +21,13 @@
 
 ## 👨‍💻 About Me
 
-| | |
-|---|---|
-| 📍 Location | Delhi NCR, India |
-| 🎓 Education | Integrated M.Sc. Economics — MDU |
-| 💼 Background | Data Analytics Intern @ Unified Mentor · Risk Research @ MBG Corporate Services |
-| 🛠 Core Skills | SQL, Python, Power BI, Excel, Machine Learning |
-| 🔧 Building Now | AI Risk Analyst (NL-to-SQL agent, insight automation, drift monitoring) |
-| 🎯 Open To | Data Analyst, Business Analyst, Risk Analyst |
+- 💼 **Role:** Data Analyst | SQL · Python · Power BI
+- 🛠 **Core Skills:** SQL · Python · Power BI · Excel · Machine Learning
+- 🎯 **Open To:** Data Analyst · Business Analyst · Risk Analyst roles
+- 🔧 **Currently Building:** AI Risk Analyst — NL-to-SQL agent, automated insight generation & drift monitoring
+- 💼 **Background:** Data Analytics Internship @ Unified Mentor · Financial Risk Research @ MBG Corporate Services
+- 🎓 **Education:** Integrated M.Sc. Economics — Maharshi Dayanand University
+- 📍 **Location:** Gurugram, India
 
 I specialize in end-to-end analytics — from cleaning raw data and building predictive models in Python, to writing business-driven SQL queries, to shipping interactive Power BI dashboards stakeholders actually use.
 
