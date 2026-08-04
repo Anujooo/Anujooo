@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Role:** Data Analyst | SQL · Python · Power BI
+- 💼 Data Analyst | SQL | Python | Power BI | Insights • Dashboards • Predictive Analytics 
 - 🛠 **Core Skills:** SQL · Python · Power BI · Excel · Machine Learning
 - 🎯 **Open To:** Data Analyst · Business Analyst · Risk Analyst roles
 - 🔧 **Currently Building:** AI Risk Analyst — NL-to-SQL agent, automated insight generation & drift monitoring
