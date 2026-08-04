@@ -18,16 +18,15 @@
 </p>
 
 <br>
-
 ## 👨‍💻 About Me
 
-- 💼 Data Analyst | SQL | Python | Power BI | Insights • Dashboards • Predictive Analytics 
-- 🛠 **Core Skills:** SQL · Python · Power BI · Excel · Machine Learning
-- 🎯 **Open To:** Data Analyst · Business Analyst · Risk Analyst roles
-- 🔧 **Currently Building:** AI Risk Analyst — NL-to-SQL agent, automated insight generation & drift monitoring
-- 💼 **Background:** Data Analytics Internship @ Unified Mentor · Financial Risk Research @ MBG Corporate Services
-- 🎓 **Education:** Integrated M.Sc. Economics — Maharshi Dayanand University
-- 📍 **Location:** Gurugram, India
+* 💼 **Data Analyst** | SQL | Python | Power BI | Machine Learning | Data Visualization
+* 📊 **Projects:** Built end-to-end analytics solutions in Customer Analytics, Healthcare Analytics, and Bank Churn Prediction using SQL, Python, Power BI, and Machine Learning.
+* 🔧 **Currently Building:** An AI-powered analytics assistant for natural language querying (NL-to-SQL) and automated business insights.
+* 💼 **Experience:** Data Analytics Intern @ Unified Mentor • Risk Research Analyst @ MBG Corporate Services
+* 🎓 **Education:** Integrated M.Sc. in Economics — Maharshi Dayanand University
+* 📍 **Location:** Gurugram, India
+
 
 I specialize in end-to-end analytics — from cleaning raw data and building predictive models in Python, to writing business-driven SQL queries, to shipping interactive Power BI dashboards stakeholders actually use.
 
